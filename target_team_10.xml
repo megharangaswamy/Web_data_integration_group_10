@@ -1,0 +1,29 @@
+<laptops>
+	<laptop>
+		<Website_specific_id></Website_specific_id>
+		<laptop_Brand></laptop_Brand>
+		<laptop_name></laptop_name>
+		<display_info></display_info>
+		<processor_info></processor_info>
+		<RAM></RAM>
+		<HDD></HDD>
+		<grapic_Card></grapic_Card>
+		<colour></colour>
+		<Artkl_number></Artkl_number>
+		<Nr_of_reviews></Nr_of_reviews>
+		<Processor></Processor>
+		<O_S></O_S>
+		<Screen_size></Screen_size>
+		<Screen_resolution></Screen_resolution>
+		<Memory_Type></Memory_Type>
+		<Processor_Brand></Processor_Brand>
+		<Processor_Model></Processor_Model>
+		<Graphics_card_manufacturer></Graphics_card_manufacturer>
+		<Connections></Connections>
+		<WLAN_standards></WLAN_standards>
+		<Bluetooth_version></Bluetooth_version>
+		<laptop_Dimensions></laptop_Dimensions>
+		<price></price>
+	</laptop>
+</laptops>
+

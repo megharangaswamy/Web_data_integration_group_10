@@ -1,28 +1,35 @@
 <laptops>
 	<laptop>
 		<Website_specific_id></Website_specific_id>
-		<laptop_Brand></laptop_Brand>
-		<laptop_name></laptop_name>
-		<display_info></display_info>
-		<processor_info></processor_info>
-		<RAM></RAM>
-		<HDD></HDD>
-		<grapic_Card></grapic_Card>
-		<colour></colour>
-		<Artkl_number></Artkl_number>
-		<Nr_of_reviews></Nr_of_reviews>
-		<Processor></Processor>
-		<O_S></O_S>
-		<Screen_size></Screen_size>
+		<Manufacturer>
+			<Headquarters></Headquarters>
+			<Manufacturer_country></Manufacturer_country>
+			<CEO></CEO>
+			<Founder></Founder>
+			<Revenue_usd></Revenue_usd>
+		</Manufacturer>
+		<Product_name></Product_name>
 		<Screen_resolution></Screen_resolution>
-		<Memory_Type></Memory_Type>
+		<Display></Display>
+		<laptop_Dimensions></laptop_Dimensions>
+		<Processor_speed></Processor_speed>
 		<Processor_Brand></Processor_Brand>
 		<Processor_Model></Processor_Model>
+		<Processor_Core></Processor_Core>
+		<RAM></RAM>
+		<Memory_Type></Memory_Type>
+		<HD></HD>
+		<grapicCard_model></grapicCard_model>
 		<Graphics_card_manufacturer></Graphics_card_manufacturer>
 		<Connections></Connections>
+		<colour></colour>
+		<sound></sound>
+		<Battery_life></Battery_life>		
+		<OS></OS>		
 		<WLAN_standards></WLAN_standards>
 		<Bluetooth_version></Bluetooth_version>
-		<laptop_Dimensions></laptop_Dimensions>
+		<LTE></LTE>
+		<weight></weight>		
 		<price></price>
 	</laptop>
 </laptops>

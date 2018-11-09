@@ -1,36 +1,41 @@
-<laptops>
+﻿<laptops>
 	<laptop>
-		<Website_specific_id></Website_specific_id>
+		<Website_specific_id>m_01</Website_specific_id>
 		<Manufacturer>
-			<Headquarters></Headquarters>
-			<Manufacturer_country></Manufacturer_country>
-			<CEO></CEO>
-			<Founder></Founder>
-			<Revenue_usd></Revenue_usd>
+		<name>Acer</name>
+			<Headquarters> New Taipei City</Headquarters>
+			<Manufacturer_country>Taiwan</Manufacturer_country>
+			<CEO> Jason Chen </CEO>
+			<Founder> Stan Shih, Carolyn Yeh</Founder>
+			<Revenue_usd>NT$263.8 B</Revenue_usd>
 		</Manufacturer>
-		<Product_name></Product_name>
-		<Screen_resolution></Screen_resolution>
-		<Display></Display>
-		<laptop_Dimensions></laptop_Dimensions>
-		<Processor_speed></Processor_speed>
-		<Processor_Brand></Processor_Brand>
-		<Processor_Model></Processor_Model>
-		<Processor_Core></Processor_Core>
-		<RAM></RAM>
-		<Memory_Type></Memory_Type>
-		<HD></HD>
-		<grapicCard_model></grapicCard_model>
-		<Graphics_card_manufacturer></Graphics_card_manufacturer>
-		<Connections></Connections>
-		<colour></colour>
-		<sound></sound>
-		<Battery_life></Battery_life>		
-		<OS></OS>		
-		<WLAN_standards></WLAN_standards>
-		<Bluetooth_version></Bluetooth_version>
-		<LTE></LTE>
-		<weight></weight>		
-		<price></price>
+		<Product_name>Acer Aspire 5 A515-51G 15,6" FHD IPS i5-8250U 8GB/256GB SSD GF MX150 DOS</Product_name>
+		<price>€ 509,00</price>
+    <colour> Aluminium-Unibody/Sparkly Silver</colour>
+		<weight>2,1 kg</weight>
+		<Screen_resolution>1.920 x 1.080 pixel</Screen_resolution>
+		<Display_size>15,6  Zoll</Display_size>
+		<laptop_Dimensions>323 mm x 14.95 mm x 228 mm</laptop_Dimensions>
+		<OS>Microsoft Windows 10</OS>
+		<Processor_Brand>Intel</Processor_Brand>
+		<Processor_Model>Intel® Core™ i5-8250U Prozessor</Processor_Model>
+		<Processor_speed>1,6 Ghz</Processor_speed>
+		<Processor_Core>Quad-Core</Processor_Core>
+		<RAM>8 GB DDR4-2400</RAM>
+		<Memory_Type>DDR4</Memory_Type>
+		<HardDisk> 64 GB eMMC</HardDisk>
+    <Battery_life>7 Stunden</Battery_life>
+		<grapicCard_model> HD Grafik 615</grapicCard_model>
+		<Graphics_card_manufacturer>NVIDIA</Graphics_card_manufacturer>
+		<Connections>2x  USB Typ-C, 3x USB 3.0,  (davon 1x Power-Off USB Charging), 1x RJ-45, 1x 3.5 mm Klinke, 1x Mikrofon, 1x HDMI, 1x Display Port</Connections>
+		<Communication>Gigabit LAN (10/100/1000 Mbit/s)  / Wireless LAN 802.11 ac  / Bluetooth  / (Bluetooth® 4.0, Intel® Dual Band Wireless-AC, 802.11 ac/a/b/g/n, Wake-on-LAN ready)</Communication>
+		<sound>Acer TrueHarmony Technology  Zwei eingebaute Stereo-Lautsprecher  Eingebautes Mikrofon  HD Webcam</sound>
+		<drive>DVD+/-RW DL Brenner</drive>
+		<Card_reader>SD Card-Reader</Card_reader>
+		<Input_components>Acer FineTip Tastatur mit Numpad (103-/104-/107-Tasten)  / Multi-Gesture Touchpad (Microsoft Precision Touchpad Certification)  / Tastatur hintergrundbeleuchtet (rot)  /  /   / Sofern nicht anders angegeben, werden Notebooks mit deutschem Tastaturlayout (QWERTZ) geliefert. Die Produktbilder können ein abweichendes Layout zeigen.</Input_components>
+		<Charger>150W AC Adapter  / Output : 19.5V DC, 7.7A, 150W  / Input : 100~240V AC, 50/60Hz universal</Charger>
+		<Warranty_guaranty>2 Jahre Pickup and Return Service inkl. 1 Jahr International Travellers Warranty (1 Jahr Produktgarantie plus 1 Jahr Acer Advantage Garantieerweiterung. Die Garantieerweiterung erfordert keine Registrierungsformalitäten.)  /   / Weitere Informationen zum Service, Support und zu den Garantiebedingungen des Herstellers finden Sie hier</Warranty_guaranty>
+		<article_number>B00JNAKW9W</article_number>
 	</laptop>
 </laptops>
 
